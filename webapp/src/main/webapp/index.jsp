@@ -82,7 +82,7 @@
     <input type="text" placeholder="Enter First Name" name="firstname" id="firstname" required>
 
     <label for="lastname"><b>Lastname</b></label>
-    <input type="text" placeholder="Enter Lastname" name="lastname" id="lastname" required>
+    <input type="text" placeholder="Enter Last Name" name="lastname" id="lastname" required>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
